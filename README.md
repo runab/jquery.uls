@@ -10,20 +10,20 @@ This is a [Wikimedia Foundation Internationalization team project](https://www.m
 ![Universal Language Selector](https://upload.wikimedia.org/wikipedia/commons/c/cd/ULS-GeoIP.png "Universal Language Selector")
 
 Quick start
------------
+===========
 
 ```bash
 git clone https://github.com/wikimedia/jquery.uls.git
 ```
 
 Documentation
--------------
+=============
 
 For documentation and examples please visit the [wiki](https://github.com/wikimedia/jquery.uls/wiki/_pages)
 
 
-How to build and test jQuery ULS
-----------------------------------
+How to build and test jQuery URL
+================================
 
 First, get a copy of the git repo by running:
 
